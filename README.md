@@ -19,6 +19,6 @@ Clone this repo or download main.py, add it to your project and directly import 
 Currently there are 1 example(s):
 - **Bouncing Cube**, like the dvd logo, but 3d, and bad.
 
-to run these examples clone the repo or downlaod the whole thing and run the python file in the folder of the examples (example forlders are located in the folder "examples")
+to run these examples clone the repo and run the examples .pyw file or just download the exe and run it.
 ***
 Trtl3D - A terrible 3D engine by BravestCheetah
